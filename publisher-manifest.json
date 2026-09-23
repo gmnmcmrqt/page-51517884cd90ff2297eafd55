@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "533848e990c1403491dafac1",
+  "owner": "gmnmcmrqt",
+  "repo": "page-51517884cd90ff2297eafd55",
+  "title": "直连",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51517884cd90ff2297eafd55",
+      "a": "直连",
+      "b": "机场官网线路发布页",
+      "entity": "直连",
+      "brand": "直连",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e8314dfa7eed25d976010742865399b1620405895f0db485fbd3000030f5f150",
+      "content": {
+        "primary_entity": "直连",
+        "keyword1": "直连",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注提供稳定的海外网络加速订阅，覆盖基础版、旗舰版和团队版三档配置。基础版每月100GB流量、3台设备在线，适合轻度浏览；旗舰版每月300GB流量、5台设备在线，配备IPLC专线并优化游戏延迟；团队版每月1000GB流量、20台设备在线，支持企业定制路由。年付方案分别为150元、350元和850元，按需选择即可。",
+          "AI_HERO_SUBTITLE": "稳定直连，按需选档",
+          "AI_HERO_INTRO": "海外加速订阅以流量、设备数和线路类型区分档位，从基础版到团队版覆盖个人到小型团队的不同使用强度。年付折算更划算，订阅后通过客户端导入配置即可使用。",
+          "AI_VISUAL_TITLE": "直连加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案折算更省",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备数量与订阅周期整理三项实际信息。",
+          "AI_FEATURE_TITLE_1": "按用量挑套餐",
+          "AI_FEATURE_TEXT_1": "每月100GB、300GB或1000GB流量，对应日常浏览、多设备重度使用和团队共享场景。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台设备在线，先确认常用终端数量再决定。",
+          "AI_FEATURE_TITLE_3": "年付折算更划算",
+          "AI_FEATURE_TEXT_3": "三档均提供年付方案，分别为150元、350元和850元，长期使用可按年订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同终端对应不同客户端，安装后导入订阅链接即可开始使用，具体以各客户端文档为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上有明显差异，可对照自身用量和设备数量选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步即可完成设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求和在线设备数量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统和客户端版本符合要求，再准备导入订阅配置。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端的使用文档，将订阅链接添加到客户端并完成连接。",
+          "AI_FAQ_TITLE": "订阅常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "订阅后如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "订阅成功后获取订阅链接，在所选客户端中找到订阅或配置导入入口，粘贴链接并更新即可。不同客户端操作位置略有差异，可参考对应文档。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、支持3台设备在线；旗舰版每月300GB流量、支持5台设备在线，并使用IPLC专线优化游戏延迟。用量较大或对延迟敏感可选旗舰版。",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些使用情况？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量、支持20台设备在线，提供VIP专属高带宽节点和企业定制路由，适合小团队多人共享或设备数量较多的场景。",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版年付350元、团队版年付850元，相比按月支付可节省两个月左右费用，长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_5": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_5": "同一时间保持连接的设备会被计入在线数量。基础版3台、旗舰版5台、团队版20台，超出后可断开不用的设备再连接新设备。",
+          "AI_CLOSING_TITLE": "按需选档，稳定加速",
+          "AI_CLOSING_TEXT": "对照流量和设备数量选定套餐，导入订阅后即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yblfyak.cn",
+    "host": "yblfyak.cn"
+  },
+  "file_hashes": {
+    "index.html": "f1fd11b7a66e6d10d4630f0f3b5cf9e6137e07fe46ade2a32da0f68e2f745ad8",
+    "sitemap.xml": "f9be3f8789b0637802b72598f82c21691d45705df11193ed6661385e4bf47053",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e74f03be95dcb575308efce35e6ec7cb1c4437ae0ffcda5964187d0f2ecd12eb",
+    "robots.txt": "018bffd4082e5e2f8bff801e12ce98421283a55eea6305243fcf25ccab5d2768",
+    "b1e810a7d7526b9ee214c1f61e879187.txt": "1a40b164d1dd6c6ac711ad7300a957421ffbb94b2e9e721288568520a4aeb987"
+  },
+  "revision": "0dd9aa8203c14c3f94022e68a23a1879a15091efd6e9b298afe1534ac26b1acf"
+}
